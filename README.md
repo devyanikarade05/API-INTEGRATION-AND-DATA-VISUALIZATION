@@ -72,5 +72,13 @@ This project provides an interactive way to explore NASA’s daily astronomy ima
 ✅ Interactive and user-friendly presentation of data  
 ✅ Simple and easy-to-use command-line interface  
 
+## OUTPUT of  Weather Data Fetching and Visualization: 
+
+![Image](https://github.com/user-attachments/assets/a7a17f46-573b-4dc6-bcf9-2a6ccccb43d8)
+
+
+## OUTPUT of NASA Astronomy Picture of the Day (APOD) Viewer: 
+
+
 
 
