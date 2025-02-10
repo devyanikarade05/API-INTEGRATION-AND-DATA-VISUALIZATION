@@ -42,26 +42,7 @@ This project fetches NASA’s Astronomy Picture of the Day (APOD) using NASA’s
 
 This project provides an interactive way to explore NASA’s daily astronomy images and their scientific explanations.
 
-## Installation
-
-To set up and run the projects, follow these steps:
-
-### 1. Clone the Repository
-```sh
-git clone https://github.com/yourusername/repository.git
-```
-
-### 2. Navigate to the Project Directory
-```sh
-cd repository
-```
-
-### 3. Install Required Dependencies
-```sh
-pip install requests pandas matplotlib pillow
-```
-
-### 4. Obtain API Keys
+### Obtain API Keys
 - Get an API key from [OpenWeatherMap](https://openweathermap.org/)
 - Get an API key from [NASA API](https://api.nasa.gov/)
 - Replace `"use your api key"` in the script with your actual API key.
