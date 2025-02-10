@@ -1,15 +1,11 @@
 # API-INTEGRATION-AND-DATA-VISUALIZATION
 
-## Internship Details
-
 - **Company:** CODTECH IT SOLUTIONS  
 - **Intern Name:** Devyani Karade  
 - **Intern ID:** CT08LTW  
 - **Domain:** Python  
 - **Batch Duration:** February 5th, 2025 - March 5th, 2025  
 - **Mentor:** Neela Santhosh  
-
-## Project Description
 
 This repository contains two Python-based API integration projects that fetch real-time data and present it using data visualization techniques.
 
